@@ -2,6 +2,7 @@
 Implementar:
 - Mensagens de erro
 - Não permitir  substituição
+- Limpar tela 
 '''
 
 import os
